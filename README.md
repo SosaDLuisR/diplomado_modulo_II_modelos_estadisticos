@@ -56,7 +56,3 @@ jupyter notebook
 ```
 
 Y abre el notebook que quieras desde el navegador.
-
-## Autor
-
-[SosaDLuisR](https://github.com/SosaDLuisR)
